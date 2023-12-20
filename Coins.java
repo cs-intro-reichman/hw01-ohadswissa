@@ -5,7 +5,7 @@ public class Coins {
             int quarters = money/25;
             int cents = money%25;
             // prints the summerise of qurters and cents needed
-            System.out.println("use "+quarters+" quarterts and "+cents+" cents" );
+            System.out.println("Use "+quarters+" quarterts and "+cents+" cents" );
 }
        
     
