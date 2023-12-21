@@ -1,5 +1,5 @@
 public class Coins {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         // add amount of cents
             int money = Integer.parseInt(args[0]);
             int quarters = money/25;

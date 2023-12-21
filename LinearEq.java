@@ -6,7 +6,7 @@
  */
 public class LinearEq {
 	// Put your code here
-    public static void main(String args[]) 
+    public static void main(String[] args) 
     {
         // enter linear equations of the form a * x + b = c as an a b c arguments
             double a = Double.parseDouble(args[0]);
